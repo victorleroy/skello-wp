@@ -178,49 +178,49 @@ function twentyeleven_setup() {
 	// Default custom headers packaged with the theme. %s is a placeholder for the theme template directory URI.
 	register_default_headers( array(
 		'wheel' => array(
-			'url' => '%s/images/headers/wheel.jpg',
+			'url' => 'https://skello-wp.herokuapp.com/wp-content/themes/twentyeleven/images/headers/wheel.jpg',
 			'thumbnail_url' => '%s/images/headers/wheel-thumbnail.jpg',
 			/* translators: header image description */
 			'description' => __( 'Wheel', 'twentyeleven' )
 		),
 		'shore' => array(
-			'url' => '%s/images/headers/shore.jpg',
+			'url' => 'https://skello-wp.herokuapp.com/wp-content/themes/twentyeleven/images/headers/shore.jpg',
 			'thumbnail_url' => '%s/images/headers/shore-thumbnail.jpg',
 			/* translators: header image description */
 			'description' => __( 'Shore', 'twentyeleven' )
 		),
 		'trolley' => array(
-			'url' => '%s/images/headers/trolley.jpg',
+			'url' => 'https://skello-wp.herokuapp.com/wp-content/themes/twentyeleven/images/headers/trolley.jpg',
 			'thumbnail_url' => '%s/images/headers/trolley-thumbnail.jpg',
 			/* translators: header image description */
 			'description' => __( 'Trolley', 'twentyeleven' )
 		),
 		'pine-cone' => array(
-			'url' => '%s/images/headers/pine-cone.jpg',
+			'url' => 'https://skello-wp.herokuapp.com/wp-content/themes/twentyeleven/images/headers/pine-cone.jpg',
 			'thumbnail_url' => '%s/images/headers/pine-cone-thumbnail.jpg',
 			/* translators: header image description */
 			'description' => __( 'Pine Cone', 'twentyeleven' )
 		),
 		'chessboard' => array(
-			'url' => '%s/images/headers/chessboard.jpg',
+			'url' => 'https://skello-wp.herokuapp.com/wp-content/themes/twentyeleven/images/headers/chessboard.jpg',
 			'thumbnail_url' => '%s/images/headers/chessboard-thumbnail.jpg',
 			/* translators: header image description */
 			'description' => __( 'Chessboard', 'twentyeleven' )
 		),
 		'lanterns' => array(
-			'url' => '%s/images/headers/lanterns.jpg',
+			'url' => 'https://skello-wp.herokuapp.com/wp-content/themes/twentyeleven/images/headers/lanterns.jpg',
 			'thumbnail_url' => '%s/images/headers/lanterns-thumbnail.jpg',
 			/* translators: header image description */
 			'description' => __( 'Lanterns', 'twentyeleven' )
 		),
 		'willow' => array(
-			'url' => '%s/images/headers/willow.jpg',
+			'url' => 'https://skello-wp.herokuapp.com/wp-content/themes/twentyeleven/images/headers/willow.jpg',
 			'thumbnail_url' => '%s/images/headers/willow-thumbnail.jpg',
 			/* translators: header image description */
 			'description' => __( 'Willow', 'twentyeleven' )
 		),
 		'hanoi' => array(
-			'url' => '%s/images/headers/hanoi.jpg',
+			'url' => 'https://skello-wp.herokuapp.com/wp-content/themes/twentyeleven/images/headers/hanoi.jpg',
 			'thumbnail_url' => '%s/images/headers/hanoi-thumbnail.jpg',
 			/* translators: header image description */
 			'description' => __( 'Hanoi Plant', 'twentyeleven' )

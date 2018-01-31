@@ -6,8 +6,6 @@ This project is a template for installing and running [WordPress](http://wordpre
 * [WP Sendgrid](https://wordpress.org/plugins/wp-sendgrid/)
 * [Wordpress HTTPS](https://wordpress.org/plugins/wordpress-https/)
 
-
-
 ## Installation
 
 Clone the repository from Github
